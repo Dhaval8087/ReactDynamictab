@@ -1,0 +1,34 @@
+{
+    "Tabs": [
+        {
+            "ID": 1,
+            "Name": "First Tab",
+            "Title": "Risk Management",
+            "content": "This is the Risk Management Tab control"
+        },
+        {
+            "ID": 2,
+            "Name": "Second Tab",
+            "Title": "Risk Cover",
+            "content": "This is the Risk Cover Tab control"
+        },
+        {
+            "ID": 3,
+            "Name": "Third Tab",
+            "Title": "Oil and Gas Products Details",
+            "content": "This is the Product Details  Tab control"
+        },
+        {
+            "ID": 4,
+            "Name": "Fourth Tab",
+            "Title": "Land  Information",
+            "content": "This is the Land Related Tab control"
+        },
+        {
+            "ID": 5,
+            "Name": "Fifth Tab",
+            "Title": "Petrolium Products Details",
+            "content": "This is the Petrolium Related Tab control"
+        }
+    ]
+}
